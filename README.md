@@ -31,7 +31,7 @@ El parche no sirve para otras versiones (USA, europea sin *undub* u otros *undub
 
 1. Descarga `Dissidia012_ES_v1.0-beta.xdelta` desde [Releases](../../releases).
 2. Haz una copia de seguridad de la ISO.
-3. Aplica el parche con **Delta Patcher** o **xdelta UI** (Windows), `xdelta3` (Linux/macOS) o [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (navegador).
+3. Aplica el parche con **Delta Patcher** o **xdelta UI** (Windows), `xdelta3` (Linux/macOS).
    ```bash
    xdelta3 -d -s Dissidia_012_EUR_FULL_UNDUB.iso Dissidia012_ES_v1.0-beta.xdelta Dissidia012_ES.iso
    ```
